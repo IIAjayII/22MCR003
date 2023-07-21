@@ -4,7 +4,7 @@
   --color-text-light: rgba(255,255,255,0.7);
   --search-button-bg: #15C6BF;
   --search-button-bg-hover: #14afaa;
-  --content-bg: rgba(170, 170, 170, 0.3);
+  --content-bg: lightpink;
 }
 
 * {
